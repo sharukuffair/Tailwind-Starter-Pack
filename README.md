@@ -1,2 +1,2 @@
 # Tailwind-Starter-Pack
-A Tailwind starter pack to get you started on tailwind.
+A Tailwind starter pack to get you start with tailwind.
